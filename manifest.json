@@ -1,0 +1,27 @@
+{
+  "name": "Pixel-Stitch",
+  "short_name": "Pixel-Stitch",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#8CB88C",
+  "icons": [
+    {
+      "src": "/images/logo.jpg",
+      "type": "image/jpg", "sizes": "24x24"
+    },
+	{
+      "src": "/images/logo144.png",
+      "type": "image/png", "sizes": "144x144"
+    },
+	{
+      "src": "/images/logo192.png",
+      "type": "image/png", "sizes": "192x192"
+    },
+	{
+      "src": "/images/logo512.png",
+      "type": "image/png", "sizes": "512x512",	  
+      "purpose": "any maskable"
+    }
+  ]
+}
